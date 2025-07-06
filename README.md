@@ -5,6 +5,9 @@
 Enhance roleplay realism with an advanced alcohol consumption and intoxication system! From casual drinks to breathalyzer tests and medical interventions, this script brings immersion and consequences to in-game drinking.
 
 ---
+🔗 [Watch preview on YouTube](https://youtu.be/KRskOGU87dk)  
+🌐 [Visit nrgscripts.com](https://nrgscripts.com)
+---
 
 ## 🍷 Alcohol Consumption
 
