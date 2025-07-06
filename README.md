@@ -6,7 +6,7 @@ Enhance roleplay realism with an advanced alcohol consumption and intoxication s
 
 ---
 🔗 [Watch preview on YouTube](https://youtu.be/KRskOGU87dk)  
-🌐 [Visit nrgscripts.com](https://nrgscripts.com)
+🌐 [Visit NrgScripts.com](https://nrgscripts.com)
 ---
 
 ## 🍷 Alcohol Consumption
